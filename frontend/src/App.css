@@ -1,0 +1,6 @@
+body {
+  background-image: url('./assets/grainy-texture.png');
+  background-repeat: repeat;
+  opacity: 0.8;
+}
+
