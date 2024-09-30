@@ -6,10 +6,10 @@ Browser Company.**[Meet the team who builds Arc 🏗️](https://www.youtube.com
 They mentioned have a cross-platform app. I just wanted to see if I could implement some the app
 features over the weekend. In recommend watching the video it is inspirational!
 
-![](https://github.com/Waraba2/arc-browser-electron.git/demo.gif)
+![](https://raw.githubusercontent.com/Waraba2/arc-browser-electron/main/demo.gif)
 
 #### IF YOU WANT TO RUN IT ON YOUR LOCAL COMPUTER
-![](https://github.com/Waraba2/arc-browser-electron.git/setup.gif)
+![](https://raw.githubusercontent.com/Waraba2/arc-browser-electron/main/setup.gif)
 
 Create a directory with a [project_name] name of your choice
 
