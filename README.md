@@ -43,7 +43,8 @@ rendered in the app in an iframe. It won't work without it because many websites
 Create a .env file in /backend/ directory with the content below. Replace "apiKey" with your API key from **[Iframely](https://iframely.com/)**.
 ```bash
 IFRAMELY_API_KEY="apiKey"
-# DISCLAIMER: Make sure you create .gitignore and include .env in case you plan on pushing to your own repo.
+# DISCLAIMER: Make sure you create .gitignore and include .env in case you plan on pushing to
+your own repo.
 ```
 
 
