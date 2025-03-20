@@ -44,7 +44,7 @@ Create a .env file in /backend/ directory with the content below. Replace "apiKe
 ```bash
 IFRAMELY_API_KEY="apiKey"
 # DISCLAIMER: Make sure you create .gitignore and include .env in case you plan on pushing to
-your own repo.
+# your own repo.
 ```
 
 
